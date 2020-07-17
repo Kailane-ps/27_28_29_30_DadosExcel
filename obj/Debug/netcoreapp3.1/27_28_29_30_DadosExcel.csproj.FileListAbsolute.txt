@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\bin\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.exe
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\bin\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.deps.json
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\bin\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\bin\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\bin\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.dll
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\bin\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.pdb
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\obj\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\obj\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\obj\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\obj\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\obj\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.dll
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\obj\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.pdb
+C:\Users\Kailane\Desktop\SENAI K\27_28_29_30_DadosExcel\obj\Debug\netcoreapp3.1\27_28_29_30_DadosExcel.genruntimeconfig.cache
